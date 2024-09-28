@@ -9,6 +9,6 @@ int main()
     const float PI=3.14;
     printf("%f\n",PI);
     a=a+1;
-    printf("%d\n",a);
+    printf("%d",a);
     return 0;
 }
