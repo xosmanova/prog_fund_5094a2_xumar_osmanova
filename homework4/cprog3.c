@@ -1,10 +1,9 @@
 #include<stdio.h>
 int main()
    {
-     int a;
+     int a, b;
      printf("Birinci ededi daxil:");
      scanf("%d",&a);
-     int b;
      printf("Ikinci ededi daxil edin:");
      scanf("%d",&b);
      if (a>b){
